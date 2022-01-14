@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: python-example-deployment
+  name: python-example
   labels:
     app: python-example
 spec:
